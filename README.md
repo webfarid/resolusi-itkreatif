@@ -1,7 +1,8 @@
 # resolusi-itkreatif
+**bikin branch lalu push
 
 ## Nurrochmat Saptoaji
 
-##F arid
+## Farid
 
 ## Bayu Oktak
