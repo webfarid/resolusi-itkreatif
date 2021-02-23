@@ -1,2 +1,7 @@
 # resolusi-itkreatif
-belajar gh-colabotor
+
+## Nurrochmat Saptoaji
+
+##F arid
+
+## Bayu Oktak
