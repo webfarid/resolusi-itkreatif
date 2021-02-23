@@ -1,6 +1,6 @@
 # resolusi-itkreatif
 
-\*\*bikin branch lalu push
+\*\*bikin branch lalu push yaaa
 
 ## Nurrochmat Saptoaji
 
